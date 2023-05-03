@@ -1,3 +1,3 @@
-Please Contact below email for big size software including your order number:
+Please Contact below email for big size software and drivers:
 
 pibiger@163.com
