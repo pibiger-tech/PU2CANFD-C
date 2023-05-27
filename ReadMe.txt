@@ -1,3 +1,3 @@
-Please Contact below email for big size software and drivers:
-
-pibiger@163.com
+1,Third Party Software:
+https://www.jianguoyun.com/p/DTqubfkQpdSrBxjOnoQFIAA
+(Password : 6entbl)
