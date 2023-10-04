@@ -2,7 +2,7 @@
 Pibiger SavvyCAN Series Products are SocketCAN devices which is free to use under linux.
 
 ## About Hardware
-
+- [Hardware Manual](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkOVFVvzO53fwzjprHC3b%2Fuploads%2FG7i2LkR2aBygXF3vV7FH%2FSavvyCAN%20Hardware%20Manual.pdf?alt=media&token=150d36e2-53db-464f-9ff7-b4dd215a8bb9"Hardware_Manual")
 ## About SavvyCAN
 SavvyCAN is a cross platform QT based C++ program. It is a CAN bus reverse engineering and capture tool. It was originally written to utilize EVTV hardware such as the EVTVDue and CANDue hardware. It has since expanded to be able to use any socketCAN compatible device as well as the Macchina M2 and Teensy 3.x boards. SavvyCAN can use any CAN interface supported by QT's SerialBus system (PeakCAN, Vector, SocketCAN, J2534, etc) It can capture and send to multiple buses and CAN capture devices at once.
 It has many functions specifically meant for reverse engineering data found on the CAN bus:
