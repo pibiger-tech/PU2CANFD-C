@@ -31,7 +31,7 @@
 - [Windows Busmaster](https://rbei-etas.github.io/busmaster/ "Busmaster")
 - [Windows PCAN And API](https://docs.123buyelectronic.com/home "PCAN")
 
-#### [Software Manual Content ]
+#### [How To Use ]
 - [SavvyCAN  Official Website](https://www.savvycan.com/ "SavvyCAN Official")
 - [SavvyCAN  Document ](https://www.savvycan.com/docs/ 'documents' )
 1. Main / Start Up Screen
