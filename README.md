@@ -1,15 +1,15 @@
-### Pibiger USB TO CAN FD Device SavvyCAN Series
+### Pibiger USB TO CAN FD Device SavvyCAN-FD Series Features:
 
 - Pibiger SavvyCAN Series Products are SocketCAN devices;
-- Officially provide SavvyCAN Software support FD Fram rate;
+- Officially provide SavvyCAN Software support CAN FD;
+- Compatible with Busmaster,Socket CAN,PCAN(PCAN API),etc...
 - CAN FD bit rates from 25 kbit/s max up to 12Mbit/s;
 - Timestamp resolution up to tp 1μs;
 - Each CAN FD Signal&Power Separately isolated against USB Up to 2.5KV; 
-- Compatible with Busmaster,Socket CAN,PCAN(PCAN API),etc...
 
 #### Manual
-- [Hardware Manual](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkOVFVvzO53fwzjprHC3b%2Fuploads%2F2oMIePBc54bsExorH1ch%2FSavvyCAN%20Hardware%20Manual.pdf?alt=media&token=ab9cc606-f3e5-40ce-ab6f-c7b44a24e4b6")
-- [Software Manual(SavvyCAN  )](https://www.savvycan.com/docs/ 'Manual' )
+- [Hardware Manual](https://github.com/pibiger-tech/PU2CANFD-C/tree/main/Manual "Hardware Manual")
+- [Software Manual (SavvyCAN  )](https://www.savvycan.com/docs/ 'Software Manual' )
 
 
 #### Windows Software
@@ -19,13 +19,19 @@
 #### Linux Software
 - [SavvyCAN Linux](https://github.com/collin80/SavvyCAN/releases/download/V208/SavvyCAN-x86_64.AppImage "SavvyCAN Linux")
 
-#### Mac Os
+#### MacOs Software
 - [SavvyCAN Mac OS](https://github.com/collin80/SavvyCAN/releases/download/V208/SavvyCAN.dmg "SavvyCAN Mac OS")
 
-#### Source Code And API
+#### Software Source Code 
 - [SavvyCAN Source Code](https://github.com/collin80/SavvyCAN "Source Code")
 
-#### [Software Document Content]
+#### Third Party Software
+
+- [Linux Can-Utils](https://github.com/pibiger-tech/PU2CANFD-C/tree/main/For_Linux_SocketCAN)
+- [Windows Busmaster](https://rbei-etas.github.io/busmaster/ "Busmaster")
+- [Windows PCAN And API](https://docs.123buyelectronic.com/home "PCAN")
+
+#### [Software Manual Content ]
 - [SavvyCAN  Official Website](https://www.savvycan.com/ "SavvyCAN Official")
 - [SavvyCAN  Document ](https://www.savvycan.com/docs/ 'documents' )
 1. Main / Start Up Screen
@@ -117,12 +123,3 @@
 87. The isotp Object
 88. The uds Object
 89. A full example script
-
-#### More Information 
-
-
-
-#### Third Party Software
-- [Busmaster](https://github.com/pibiger-tech/PU2CANFD-C/tree/main/For_Win_OpenSource/Busmaster "Busmaster")
-- [PCAN]()
-- [PCAN API]()
